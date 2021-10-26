@@ -13,6 +13,6 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "author": "",
+  "author": "mfayed",
   "license": "ISC"
 }
